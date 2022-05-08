@@ -1,4 +1,6 @@
-### Status Badges for Bamboo
+# Status Badges for Bamboo
+
+[![License: MIT](https://img.shields.io/github/license/mieliespoor/bamboo-status-badges)](https://opensource.org/licenses/MIT)
 
 Simple implementation of build and deployment status badges for Bamboo
 
