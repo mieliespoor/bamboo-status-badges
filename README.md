@@ -9,4 +9,4 @@ Currently supporting:
 * build status badge
 * deployment status badge (including deployed version and environment name)
 
-![Badges](https://raw.githubusercontent.com/redfox-tools/bamboo-status-badges/master/src/main/resources/images/screen_1.png)
+![Badges](https://github.com/redfox-tools/bamboo-status-badges/blob/9cae5b16c4569a89694b9a879c120a352c314c21/src/main/resources/images/status-bages/screen_1.png)
