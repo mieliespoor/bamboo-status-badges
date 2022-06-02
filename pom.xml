@@ -18,7 +18,7 @@
     <packaging>atlassian-plugin</packaging>
 
     <properties>
-        <bamboo.version>8.0.1</bamboo.version>
+        <bamboo.version>9.0.0-fix-source-distro-4</bamboo.version>
         <bamboo.data.version>${bamboo.version}</bamboo.data.version>
         <bamboo.maven.version>6.3.22</bamboo.maven.version>
         <amps.version>8.0.2</amps.version>
